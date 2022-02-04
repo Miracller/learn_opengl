@@ -155,54 +155,5 @@ void main(){
 }
 
 
-//	float dist = length(lightPos - FragPos);
-//	float attenuation = 1.0 / (lightP.constant + lightP.linear * dist + lightP.quadratic * (dist * dist));
-//	
-//	vec3 lightDir = normalize(lightPos - FragPos);
-//	vec3 reflectVec = reflect(-lightDir, Normal);
-////	vec3 reflectVec = 2 * Normal - (lightDir); // test
-//
-//	vec3 cameraVec = normalize(cameraPos - FragPos);
-//
-//	// specular
-//	float specularAmount = pow(max(dot(reflectVec, cameraVec), 0), material.shininess );
-//	vec3 specular = texture(material.specular, TexCoord).rgb * specularAmount  * lightColor;
-//
-//	// diffuse
-//	vec3 diffuse = texture(material.diffuse, TexCoord).rgb * max(dot(lightDir, Normal), 0) * lightColor;
-//	//vec3 diffuse = texture(material.diffuse, TexCoord).rgb;
-//
-//	// ambient
-//	vec3 ambient = texture(material.diffuse, TexCoord).rgb * material.ambient * ambientColor;
-//
-//	//emission 
-//	vec3 emission = texture(material.emission, vec2(TexCoord.x, TexCoord.y + offset * 0.1f)).rgb;
-//
-//	float cosTheta = dot( normalize(FragPos - lightPos), -1.0f * lightDirUniform );
-//	
-//	float spotRatio;
-//	if(cosTheta > lightS.cosPhyInner){
-//		// inside
-//		spotRatio = 1.0f;
-//	}else if(cosTheta > lightS.cosPhyOuter){
-//		// middle
-//		spotRatio = (cosTheta - lightS.cosPhyOuter) / (lightS.cosPhyInner - lightS.cosPhyOuter);
-//	}else{
-//		// outside
-//		spotRatio = 0.0f;
-//	}
-
-	//FragColor = vec4((ambient + (diffuse + specular) * spotRatio) * objColor, 1.0f);
-	
-//	if(cosTheta > lightS.cosPhy){
-//		// inside the spotlight
-//		FragColor = vec4((ambient + (diffuse + specular) ) * objColor, 1.0f);
-//	}else{
-//		// outside 
-//		FragColor = vec4(ambient  * objColor, 1.0f);
-//	}
-
-//	FragColor = vec4((ambient + (diffuse + specular) * attenuation ) * objColor, 1.0f);
-//	FragColor = vec4((ambient + diffuse + specular + emission) * objColor, 1.0f);
 
 	
