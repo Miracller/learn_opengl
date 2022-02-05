@@ -2,7 +2,7 @@
 
 This is a project to practice something basic I learned from Computer Graphics with one of its API - Opengl. I implement a very simple game engine in this project.
 
-Development environment: Win10 + Visual Studio;
+Development environment: Win10 + Visual Studio
 
 Used library for OpenGL: GLFW + GLEW
 
