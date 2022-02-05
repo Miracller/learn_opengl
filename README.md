@@ -17,7 +17,7 @@ I also implement simple render pipeline by generating and binding VAO, VBO and E
 ![fromtop](https://user-images.githubusercontent.com/24697586/152614535-54814017-6793-4b34-9f1a-66ce34e095ec.PNG)
 
 
-Previous excise with boxes:
+Previous exercise with boxes:
 
 ![previ](https://user-images.githubusercontent.com/24697586/152616131-d91ed79a-25d7-45ac-9146-b7d9f92f9ada.PNG)
 
