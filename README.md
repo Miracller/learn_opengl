@@ -6,16 +6,15 @@ Development environment: Win10 + Visual Studio 2022
 
 I mainly implements basic shader, texture, camera class, lighting and model loading. 
 
-![overall](https://user-images.githubusercontent.com/24697586/152614537-0de05fc5-533f-4fb1-965d-254d6b701194.PNG)
+![overall](https://user-images.githubusercontent.com/24697586/152659574-5700a034-89af-4aea-94df-5cd06fbc569a.PNG)
 
 From the overall photo, you can see I implement basic lighting including specular, diffuse and ambient light.
 I learn and realize basic material, camera class to display models and model loading function to load models.
 
 I also implement simple render pipeline by generating and binding VAO, VBO and EBO. 
 
-![details](https://user-images.githubusercontent.com/24697586/152614534-e8b58511-62dd-42d1-82f4-7d97a5b9f16a.PNG)
-![fromtop](https://user-images.githubusercontent.com/24697586/152614535-54814017-6793-4b34-9f1a-66ce34e095ec.PNG)
-
+![details](https://user-images.githubusercontent.com/24697586/152659580-a4a3dd0e-3f09-478b-b4d8-45a05d25d9bc.PNG)
+![fromtop](https://user-images.githubusercontent.com/24697586/152659582-e79d5479-d5a1-4427-aea9-5d96a74a3f97.PNG)
 
 Previous exercise with boxes:
 
