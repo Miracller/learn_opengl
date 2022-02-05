@@ -4,7 +4,7 @@ This is a project to practice something basic I learned from Computer Graphics w
 
 Development environment: Win10 + Visual Studio
 
-Used library: GLFW + GLEW
+Library used: GLFW + GLEW
 
 I mainly implements basic shader, material class, camera class, lighting and model loading function. 
 
