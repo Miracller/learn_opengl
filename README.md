@@ -1,4 +1,4 @@
-# Opengl Toy Project
+# OpenGL Toy Project
 
 This is a project to practice something basic I learned from Computer Graphics with one of its API - Opengl. 
 
