@@ -4,7 +4,7 @@ This is a project to practice something basic I learned from Computer Graphics w
 
 Development environment: Win10 + Visual Studio
 
-I mainly implements basic shader, texture, camera class, lighting and model loading. 
+I mainly implements basic shader, material class, camera class, lighting and model loading function. 
 
 ![overall](https://user-images.githubusercontent.com/24697586/152659574-5700a034-89af-4aea-94df-5cd06fbc569a.PNG)
 
