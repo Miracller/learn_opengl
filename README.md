@@ -2,7 +2,7 @@
 
 This is a project to practice something basic I learned from Computer Graphics with one of its API - Opengl. I implement a very simple game engine in this project.
 
-Development environment: Win10 + Visual Studio 2022
+Development environment: Win10 + Visual Studio
 
 I mainly implements basic shader, texture, camera class, lighting and model loading. 
 
