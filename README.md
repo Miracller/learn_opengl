@@ -9,7 +9,7 @@ I mainly implements basic shader, texture, camera class, lighting and model load
 ![overall](https://user-images.githubusercontent.com/24697586/152614537-0de05fc5-533f-4fb1-965d-254d6b701194.PNG)
 
 From the overall photo, you can see I implement basic lighting including specular, diffuse and ambient light.
-I learn and realize basic material, camera class and model loading function.
+I learn and realize basic material, camera class to display models and model loading function to load models.
 
 I also implement simple render pipeline by generating and binding VAO, VBO and EBO. 
 
