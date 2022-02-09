@@ -6,7 +6,7 @@ Development environment: Win10 + Visual Studio
 
 Library used: GLFW + GLEW
 
-I mainly implements basic render pipeline, material class, camera class, lighting and model loading function. 
+I mainly implement basic render pipeline, material class, camera class, lighting and model loading function. 
 
 ![overall](https://user-images.githubusercontent.com/24697586/152659574-5700a034-89af-4aea-94df-5cd06fbc569a.PNG)
 
